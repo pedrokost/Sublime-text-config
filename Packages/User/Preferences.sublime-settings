@@ -1,0 +1,11 @@
+{
+	"bold_folder_labels": true,
+	"elementary_folder_icons": true,
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"overlay_scroll_bars": "enabled",
+	"theme": "Elementary Light 3.sublime-theme"
+}

@@ -1,0 +1,771 @@
+{
+	"folder_history":
+	[
+		"/home/pedro/Dropbox/Imperial/7languages-prolog",
+		"/home/pedro/Dropbox/Imperial/7languages-prolog/prolog_ai_code",
+		"/home/pedro/imperial",
+		"/home/pedro/imperial/intro_prolog_matlab/prolog",
+		"/home/pedro/.ssh",
+		"/home/pedro"
+	],
+	"last_version": 3047,
+	"last_window_id": 5,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Diags",
+						"Diags1"
+					],
+					[
+						"Diagonal",
+						"DiagonalsTail"
+					],
+					[
+						"Diagon",
+						"DiagonalsTail"
+					],
+					[
+						"Dia",
+						"Diagonal"
+					],
+					[
+						"Row",
+						"RowTail"
+					],
+					[
+						"Queen",
+						"QueensTail"
+					],
+					[
+						"valid",
+						"valid_queen"
+					],
+					[
+						"eight",
+						"eight_queens"
+					],
+					[
+						"Squar",
+						"Square2"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"max",
+						"max-height"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 56.0,
+				"selected_items":
+				[
+					[
+						"bash",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"prolog",
+						"Set Syntax: Prolog"
+					],
+					[
+						" css",
+						"Set Syntax: CSS"
+					]
+				],
+				"width": 435.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/pedro/.ssh/config",
+				"/home/pedro/.zshrc",
+				"/home/pedro/Dropbox/ICL/7languages-prolog/eight_queens.pl",
+				"/home/pedro/Dropbox/ICL/7languages-prolog/sudoku.pl",
+				"/home/pedro/Dropbox/ICL/7languages-prolog/untitled",
+				"/home/pedro/shit",
+				"/home/pedro/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/pedro/res",
+				"/home/pedro/Dropbox/Misc/Github/utilities/install.sh",
+				"/home/pedro/.dropbox/config.dbx",
+				"/home/pedro/.dropbox/deleted.dbx",
+				"/home/pedro/.dropbox/host.dbx",
+				"/media/Data/Dropbox/Misc/Github/utilities/install.sh",
+				"/media/Data/Dropbox/Misc/Github/utilities/install"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"setenv",
+					"removed",
+					"200px"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 260.0
+			},
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 191.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"h",
+						"hm	RSpec \"shoulda\" have_many"
+					],
+					[
+						"Diags",
+						"Diags1"
+					],
+					[
+						"Diagonal",
+						"DiagonalsTail"
+					],
+					[
+						"Diagon",
+						"DiagonalsTail"
+					],
+					[
+						"Dia",
+						"Diagonal"
+					],
+					[
+						"Row",
+						"RowTail"
+					],
+					[
+						"Queen",
+						"QueensTail"
+					],
+					[
+						"valid",
+						"valid_queen"
+					],
+					[
+						"eight",
+						"eight_queens"
+					],
+					[
+						"Squar",
+						"Square2"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"max",
+						"max-height"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "arc(a, b).\narc(b, c).\narc(b, d).\narc(c, f).\narc(d, f).\narc(c, e).\narc(f, e).\n\n\npath(X, Z) :-\n	arc(X, Z).\npath(X, Z) :-\n	arc(X, Y),\n	path(Y, Z).\n\n%----------------------\n\n%ones_zeros([])\n%ones_zeros([Head|Tail]) :-\n%	Head=1,\n%	ones_zeros(Tail).\n%ones_zeros([Head|Tail]) :-\n%	Head=0,\n%	ones_zeros(Tail).\n\nones_zeros([]).\nones_zeros([Head|Tail]) :-\n	member(Head, [0, 1]),\n	ones_zeros(Tail).\n\nhasdups( [Head | Tail] ) :-\n	member(Head, Tail).\n\nhasdups( [Head | Tail] ) :-\n	hasdups(Tail).\n\n%% i. plus(s(0), s(s(0)), Z).\n%% ii. plus(s(0), Y, s(s(s(s(0))))).\n%% iii. plus(X, Y, s(s(s(s(0))))).\nplus(0, Y, Y).\n\nplus(s(X), Y, s(Z)) :-\n	plus(X, Y, Z).\n\n% 2k + 1 = k + k + 1 == k + (k + 1)\nodd( X ):-\n	plus(_K, s(_K), X).\n\n%prod([], 1).\n%prod([H | R], P) :-\n%	prod( R, TempP ),\n%	P is TempP * H0.\n\n% tail rec\nprod([], 1).\nprod(L, P) :-\n	prod_tr(L, 1, P).\n\nprod_tr([], L, L).\nprod_tr([H | R], L, P) :-\n	TempL is L * H,\n	prod_tr(R, TempL, P).\n\n% The first letter of L2 is in L1,\n% Every next letter of L2 follows\n\nmem(X, [X|_]).\nmem(X, [_|T]) :-\n	mem(X, T).\n\n\n\n% check that each element is in the same\n\ncontains([], [], 1).\n\ncontains([H1|T1], [H2|T2], N) :-\n	contains(T1, T2, N).\n\ncontains([H1|T1], L2, N) :-\n	\n\n\n\n\n\n\n%contains(X, X, 1).\n\n% bad, not TL.\n%contains([H|T], Y, N) :-\n%	contains(T, Y, TempN),\n%	N is TempN + 1.\n\n% each element of list is same\n\n%contains([X|T], X, 1).\n%contains([[H|X]|T], 2).\n\n	\n\n",
+					"file": "/home/pedro/imperial/intro_prolog_matlab/prolog/path.pl",
+					"file_size": 1431,
+					"file_write_time": 130253791630000000,
+					"settings":
+					{
+						"buffer_size": 1394,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/pedro/Dropbox/Imperial/7languages-prolog/eight_queens.pl",
+					"settings":
+					{
+						"buffer_size": 1902,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/pedro/Dropbox/Imperial/7languages-prolog/family.pl",
+					"settings":
+					{
+						"buffer_size": 1183,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/pedro/.config/sublime-text-3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 3255,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/pedro/.config/sublime-text-3/Packages/SublimeREPL/config/Prolog/Main.sublime-menu",
+					"settings":
+					{
+						"buffer_size": 751,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "SICStus 4.2.1 (x86_64-linux-glibc2.7): Wed Feb  1 01:15:06 CET 2012\nLicensed to studentSP4doc.ic.ac.uk\n\nconsult(family).\n% consulting /home/pedro/Dropbox/Imperial/7languages-prolog/family.pl...\n* [X] - singleton variables\n* Approximate lines: 56-57, file: '/home/pedro/Dropbox/Imperial/7languages-prolog/family.pl'\n% consulted /home/pedro/Dropbox/Imperial/7languages-prolog/family.pl in module user, 0 msec 11440 bytes\nyes\n\n\npredecessor(pam, X).\nX = bob ? ;\n\nX = ann ? ;\n\nX = pat ? ;\n\nX = jim ? ;\n\nno\n\n\n",
+					"settings":
+					{
+						"buffer_size": 503,
+						"line_ending": "Unix",
+						"name": "*REPL* [prolog]",
+						"scratch": true
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 79.0,
+				"selected_items":
+				[
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"prolog",
+						"Set Syntax: Prolog"
+					],
+					[
+						"bash",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						" css",
+						"Set Syntax: CSS"
+					]
+				],
+				"width": 435.0
+			},
+			"console":
+			{
+				"height": 141.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/pedro/Dropbox/Imperial/7languages-prolog/prolog_ai_code/fig1_8.txt",
+				"/home/pedro/.config/sublime-text-3/Packages/User/Prolog.sublime-build",
+				"/home/pedro/.config/sublime-text-3/Packages/SublimeREPL/config/Prolog/Default.sublime-commands",
+				"/home/pedro/.config/sublime-text-3/Packages/SublimeREPL/config/Lua/Main.sublime-menu",
+				"/home/pedro/.config/sublime-text-3/Packages/SublimeREPL/config/Prolog/pry_repl.rb",
+				"/home/pedro/.zshrc",
+				"/home/pedro/Dropbox/Imperial/7languages-prolog/prolog_ai_code/shell.txt",
+				"/home/pedro/Dropbox/ICL/7languages-prolog/family.pl",
+				"/home/pedro/Dropbox/ICL/timetable/Autumn 2012.html",
+				"/home/pedro/.ssh/config",
+				"/home/pedro/Dropbox/ICL/7languages-prolog/eight_queens.pl",
+				"/home/pedro/Dropbox/ICL/7languages-prolog/sudoku.pl",
+				"/home/pedro/Dropbox/ICL/7languages-prolog/untitled",
+				"/home/pedro/shit",
+				"/home/pedro/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/pedro/res",
+				"/home/pedro/Dropbox/Misc/Github/utilities/install.sh",
+				"/home/pedro/.dropbox/config.dbx",
+				"/home/pedro/.dropbox/deleted.dbx",
+				"/home/pedro/.dropbox/host.dbx",
+				"/media/Data/Dropbox/Misc/Github/utilities/install.sh",
+				"/media/Data/Dropbox/Misc/Github/utilities/install"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"read",
+					"alias",
+					"NOT YET OPEN",
+					"setenv",
+					"removed",
+					"200px"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/home/pedro/imperial"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/pedro/Dropbox/Imperial/7languages-prolog/prolog_ai_code"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/pedro/Dropbox/Imperial/7languages-prolog"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/pedro/imperial/intro_prolog_matlab/prolog/path.pl",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1394,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1198,
+										1198
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Prolog/Prolog.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1236.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/pedro/Dropbox/Imperial/7languages-prolog/eight_queens.pl",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 1902,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1821,
+										1821
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Prolog/Prolog.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 561.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/pedro/Dropbox/Imperial/7languages-prolog/family.pl",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1183,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1123,
+										1123
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Prolog/Prolog.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 494.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/pedro/.config/sublime-text-3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3255,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2248,
+										2248
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 867.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/pedro/.config/sublime-text-3/Packages/SublimeREPL/config/Prolog/Main.sublime-menu",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 751,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										615,
+										615
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 5,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 503,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										503,
+										503
+									]
+								],
+								"settings":
+								{
+									"auto_complete": true,
+									"auto_indent": false,
+									"detect_indentation": false,
+									"gutter": false,
+									"history_arrows": true,
+									"indent_subsequent_lines": false,
+									"line_numbers": false,
+									"repl": true,
+									"repl_external_id": "prolog",
+									"repl_id": "f0b4807540584540bbcb59eff4e16826",
+									"repl_restart_args":
+									{
+										"autocomplete_server": true,
+										"cmd":
+										[
+											"sicstus"
+										],
+										"cmd_postfix": "\n",
+										"cwd": "$file_path",
+										"encoding": "utf8",
+										"external_id": "prolog",
+										"soft_quit": "\nexit\n",
+										"syntax": "Packages/Prolog/Prolog.tmLanguage",
+										"type": "subprocess"
+									},
+									"repl_sublime2": false,
+									"smart_indent": false,
+									"spell_check": false,
+									"syntax": "Packages/Prolog/Prolog.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.529787234043,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 200.0
+			},
+			"position": "0,1,0,0,0,683,0,1364,745,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"1.8",
+						"prolog_ai_code/fig1_8.txt"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+				],
+				"width": 446.0
+			},
+			"settings":
+			{
+				"last_automatic_layout":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				]
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 191.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 5,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

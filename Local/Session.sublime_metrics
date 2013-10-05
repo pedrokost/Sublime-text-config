@@ -1,0 +1,27 @@
+{
+	"licensed": false,
+	"packages":
+	[
+		"LiveStyle",
+		"Package Control",
+		"Prolog",
+		"Rails Developer Snippets",
+		"LiveStyle",
+		"Package Control",
+		"Prolog",
+		"Rails Developer Snippets",
+		"LiveStyle",
+		"Package Control",
+		"Prolog",
+		"Rails Developer Snippets"
+	],
+	"startup_sec": 0.427275,
+	"syntax":
+	{
+		"HTML": 1,
+		"JSON": 11,
+		"Plain text": 3,
+		"Prolog": 19
+	},
+	"time": 1380920627
+}
